@@ -1,4 +1,4 @@
-package vn.ht;
+package vn.ht.model;
 
 public class Customer {
     private int id;
